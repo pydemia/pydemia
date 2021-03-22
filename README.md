@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Syntax Color Theme
-🌈 [Cobalt9 (vscode)](https://github.com/pydemia/cobalt9-vscode)
-🌈 [Cobalt9 (jetbrains)](https://github.com/pydemia/cobalt9-jetbrains)
-🌈 [Cobalt2-pydemia (atom)](https://github.com/pydemia/pydemia-atom-syntax)
+🌈 Syntax Color Theme
+- [Cobalt9 (vscode)](https://github.com/pydemia/cobalt9-vscode)
+- [Cobalt9 (jetbrains)](https://github.com/pydemia/cobalt9-jetbrains)
+- [Cobalt2-pydemia (atom)](https://github.com/pydemia/pydemia-atom-syntax)
 
 <!--
 **pydemia/pydemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
