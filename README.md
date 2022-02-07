@@ -5,7 +5,7 @@
 - [Cobalt9 (jetbrains)](https://github.com/pydemia/cobalt9-jetbrains)
 - [Cobalt2-pydemia (atom)](https://github.com/pydemia/pydemia-atom-syntax)
 
-[![pydemia's GitHub stats](https://github-readme-stats.vercel.app/api?username=pydemia)](https://github.com/anuraghazra/github-readme-stats)
+[![pydemia's GitHub stats](https://github-readme-stats.vercel.app/api?username=pydemia&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pydemia/pydemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
