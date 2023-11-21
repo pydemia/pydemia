@@ -5,8 +5,10 @@
 - [Cobalt9 (jetbrains)](https://github.com/pydemia/cobalt9-jetbrains)
 - [Cobalt2-pydemia (atom)](https://github.com/pydemia/pydemia-atom-syntax)
 
-
-- []
+<a href="https://simpleicons.org/icons/pypi.svg" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white"/>
+- [dyanmic-batcher](https://github.com/pydemia/dynamic-batcher)
+- [kubernetes-client](https://github.com/pydemia/kubernetes-client)
+- [unipy](https://github.com/pydemia/unipy)
 
 [![pydemia's GitHub stats](https://github-readme-stats.vercel.app/api?username=pydemia&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -57,8 +59,8 @@ Here are some ideas to get you started:
     <th>etc.</th>
   </tr>
   <tr>
-    <td valign="top">
-      <ul>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/ubuntu.svg" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/windows.svg" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/android.svg" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a></li>
@@ -66,8 +68,8 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/alpinelinux.svg" target="_blank"><img src="https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white"/></a></li>
       </ul>
     </td>
-    <td valign="top">
-      <ul>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/c.svg" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a></li>
         <li>Java</li>
@@ -78,8 +80,8 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/go.svg" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a></li>
       </ul>
     </td>
-    <td valign="top">
-      <ul>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/docker.svg" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/opensearch.svg" target="_blank"><img src="https://img.shields.io/badge/Opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/></a></li>
@@ -88,8 +90,8 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white"/></a></li>
       </ul>
     </td>
-    <td valign="top">
-      <ul>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/intellijidea.svg" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/slack.svg" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a></li>
@@ -99,19 +101,19 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/></a></li>
       </ul>
     </td>
-    <td valign="top">
-      <ul>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/vivaldi.svg" target="_blank"><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=vivaldi&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/microsoftedge.svg" target="_blank"><img src="https://img.shields.io/badge/MSEdge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/microsoftedge.svg" target="_blank"><img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white"/></a></li>
       </ul>
     </td>
-    <td>
-      <ul>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/microsoftonenote.svg" target="_blank"><img src="https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white"/></a></li>
       </ul>
     </td>
-    <td valign="top">
-      <ul>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/rainmeter.svg" target="_blank"><img src="https://img.shields.io/badge/Rainmeter-19519B?style=flat-square&logo=rainmeter&logoColor=white"/></a></li>
       </ul>
     </td>
