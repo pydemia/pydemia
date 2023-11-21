@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 <a href="https://simpleicons.org/icons/c.svg" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 
 Java
+
+<a href="https://www.vectorlogo.zone/logos/java/java-icon.svg" target="_blank"><img src="https://img.shields.io/badge/Java-FF6600?style=flat-square&logo=java-icon&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/kotlin.svg" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
 
 <a href="https://simpleicons.org/icons/javascript.svg" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -66,7 +68,6 @@ Java
 
 <a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white"/></a>
 
-https://simpleicons.org/icons/intellijidea.svg
 ### Tools
 
 <a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
