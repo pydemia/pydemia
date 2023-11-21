@@ -72,8 +72,7 @@ Java
 <a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/iterm2.svg" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"/></a>
-<a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=windowsterminal.svg&logoColor=white"/></a>
-
+<a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/></a>
 
 ### Browsers
 
