@@ -42,6 +42,24 @@ Here are some ideas to get you started:
 
 
 ## Badges
+
+### Programming Languages
 <a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 
+### Tools
+
+<a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+
+<a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white"/></a>
+
+### Browsers
+
+<a href="https://simpleicons.org/icons/vivaldi.svg" target="_blank"><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=vivaldi&logoColor=white"/></a>
+
+
+### OS
+
+https://simpleicons.org/icons/ubuntu.svg
+
+<a href="https://simpleicons.org/icons/ubuntu.svg" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-#E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
 
