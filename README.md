@@ -45,21 +45,42 @@ Here are some ideas to get you started:
 
 ### Programming Languages
 <a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/c.svg" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/kotlin.svg" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
+https://simpleicons.org/icons/kotlin.svg
+<a href="https://simpleicons.org/icons/javascript.svg" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/typescript.svg" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+
+
+<a href="https://simpleicons.org/icons/docker.svg" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+
 
 ### Tools
 
 <a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
-
+<a href="https://simpleicons.org/icons/slack.svg" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/iterm2.svg" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=windowsterminal.svg&logoColor=white"/></a>
+
 
 ### Browsers
 
 <a href="https://simpleicons.org/icons/vivaldi.svg" target="_blank"><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=vivaldi&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/microsoftedge.svg" target="_blank"><img src="https://img.shields.io/badge/MSEdge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white"/></a>
 
+### Organizers
+
+<a href="https://simpleicons.org/icons/microsoftonenote.svg" target="_blank"><img src="https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white"/></a>
 
 ### OS
 
-https://simpleicons.org/icons/ubuntu.svg
+<a href="https://simpleicons.org/icons/ubuntu.svg" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/windows.svg" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/android.svg" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/elementary.svg" target="_blank"><img src="https://img.shields.io/badge/Elementary-64BAFF?style=flat-square&logo=elementary&logoColor=white"/></a>
 
-<a href="https://simpleicons.org/icons/ubuntu.svg" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-#E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
 
