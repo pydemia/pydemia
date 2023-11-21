@@ -46,13 +46,15 @@ Here are some ideas to get you started:
 ### Programming Languages
 <a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/c.svg" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+
 Java
 <a href="https://simpleicons.org/icons/kotlin.svg" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
+
 <a href="https://simpleicons.org/icons/javascript.svg" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/typescript.svg" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+
 <a href="https://simpleicons.org/icons/julia.svg" target="_blank"><img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/go.svg" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
-
 
 ## OSS
 
@@ -60,18 +62,21 @@ Java
 <a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/opensearch.svg" target="_blank"><img src="https://img.shields.io/badge/Opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/pydantic.svg" target="_blank"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
 
 <a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white"/></a>
-<a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
 
 https://simpleicons.org/icons/intellijidea.svg
 ### Tools
 
 <a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/intellijidea.svg" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
+
 <a href="https://simpleicons.org/icons/slack.svg" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
+
 <a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
+
 <a href="https://simpleicons.org/icons/iterm2.svg" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/></a>
 
