@@ -46,16 +46,26 @@ Here are some ideas to get you started:
 ### Programming Languages
 <a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/c.svg" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
-<a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+Java
 <a href="https://simpleicons.org/icons/kotlin.svg" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
-https://simpleicons.org/icons/kotlin.svg
 <a href="https://simpleicons.org/icons/javascript.svg" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/typescript.svg" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/julia.svg" target="_blank"><img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/go.svg" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
+https://simpleicons.org/icons/go.svg
+https://simpleicons.org/icons/julia.svg
 
+
+## OSS
 
 <a href="https://simpleicons.org/icons/docker.svg" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/opensearch.svg" target="_blank"><img src="https://img.shields.io/badge/Opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/pydantic.svg" target="_blank"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/></a>
 
+<a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
+https://simpleicons.org/icons/fastapi.svg
 
 ### Tools
 
@@ -83,4 +93,7 @@ https://simpleicons.org/icons/kotlin.svg
 <a href="https://simpleicons.org/icons/android.svg" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/elementary.svg" target="_blank"><img src="https://img.shields.io/badge/Elementary-64BAFF?style=flat-square&logo=elementary&logoColor=white"/></a>
 
+### ETC.
+
+<a href="https://simpleicons.org/icons/rainmeter.svg" target="_blank"><img src="https://img.shields.io/badge/Rainmeter-19519B?style=flat-square&logo=rainmeter&logoColor=white"/></a>
 
