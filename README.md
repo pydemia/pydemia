@@ -52,8 +52,6 @@ Java
 <a href="https://simpleicons.org/icons/typescript.svg" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/julia.svg" target="_blank"><img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/go.svg" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
-https://simpleicons.org/icons/go.svg
-https://simpleicons.org/icons/julia.svg
 
 
 ## OSS
@@ -65,7 +63,7 @@ https://simpleicons.org/icons/julia.svg
 
 <a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
-https://simpleicons.org/icons/fastapi.svg
+
 
 ### Tools
 
