@@ -64,10 +64,11 @@ Java
 <a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
 
-
+https://simpleicons.org/icons/intellijidea.svg
 ### Tools
 
 <a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/intellijidea.svg" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/slack.svg" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
@@ -89,6 +90,7 @@ Java
 <a href="https://simpleicons.org/icons/windows.svg" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/android.svg" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
 <a href="https://simpleicons.org/icons/elementary.svg" target="_blank"><img src="https://img.shields.io/badge/Elementary-64BAFF?style=flat-square&logo=elementary&logoColor=white"/></a>
+<a href="https://simpleicons.org/icons/alpinelinux.svg" target="_blank"><img src="https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white"/></a>
 
 ### ETC.
 
