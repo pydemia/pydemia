@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Badges
+## I'm a big fan of ...
 
 ### Programming Languages
 <a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
