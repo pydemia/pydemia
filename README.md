@@ -61,63 +61,64 @@ Here are some ideas to get you started:
   <tr>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/ubuntu.svg" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/windows.svg" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/android.svg" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/elementary.svg" target="_blank"><img src="https://img.shields.io/badge/Elementary-64BAFF?style=flat-square&logo=elementary&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/alpinelinux.svg" target="_blank"><img src="https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/ubuntu.svg" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/windows.svg" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/android.svg" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/elementary.svg" target="_blank"><img src="https://img.shields.io/badge/Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/alpinelinux.svg" target="_blank"><img src="https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/c.svg" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/python.svg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/c.svg" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a></li>
         <li>Java</li>
-        <li><a href="https://simpleicons.org/icons/kotlin.svg" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/javascript.svg" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/typescript.svg" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/julia.svg" target="_blank"><img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/go.svg" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/kotlin.svg" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/javascript.svg" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/typescript.svg" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/julia.svg" target="_blank"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/go.svg" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/docker.svg" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a></li>
-         <li><a href="https://simpleicons.org/icons/tensorflow.svg" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a></li>
-         <li><a href="https://simpleicons.org/icons/istio.svg" target="_blank"><img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/opensearch.svg" target="_blank"><img src="https://img.shields.io/badge/Opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/></a></li>
-         <li><a href="https://simpleicons.org/icons/jupyter.svg" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/pydantic.svg" target="_blank"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/docker.svg" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a></li>
+         <li><a href="https://simpleicons.org/icons/tensorflow.svg" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a></li>
+         <li><a href="https://simpleicons.org/icons/istio.svg" target="_blank"><img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/opensearch.svg" target="_blank"><img src="https://img.shields.io/badge/Opensearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/></a></li>
+         <li><a href="https://simpleicons.org/icons/jupyter.svg" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/pydantic.svg" target="_blank"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/qmk.svg" target="_blank"><img src="https://img.shields.io/badge/QMK-333333?style=for-the-badge&logo=qmk&logoColor=white"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/intellijidea.svg" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/slack.svg" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/iterm2.svg" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/visualstudiocode.svg" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/intellijidea.svg" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/slack.svg" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/iterm2.svg" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/vivaldi.svg" target="_blank"><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=vivaldi&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/microsoftedge.svg" target="_blank"><img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/vivaldi.svg" target="_blank"><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/microsoftedge.svg" target="_blank"><img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/microsoftonenote.svg" target="_blank"><img src="https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/microsoftonenote.svg" target="_blank"><img src="https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/rainmeter.svg" target="_blank"><img src="https://img.shields.io/badge/Rainmeter-19519B?style=flat-square&logo=rainmeter&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/rainmeter.svg" target="_blank"><img src="https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/google.svg" target="_blank"><img src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=windowsterminal&logoColor=white"/></a></li>
       </ul>
     </td>
   </tr>
