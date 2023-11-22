@@ -118,7 +118,7 @@ Here are some ideas to get you started:
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/rainmeter.svg" target="_blank"><img src="https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/google.svg" target="_blank"><img src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=windowsterminal&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/google.svg" target="_blank"><img src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/></a></li>
       </ul>
     </td>
   </tr>
