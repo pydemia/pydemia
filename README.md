@@ -85,6 +85,7 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/docker.svg" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a></li>
          <li><a href="https://simpleicons.org/icons/tensorflow.svg" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a></li>
+         <li><a href="https://simpleicons.org/icons/istio.svg" target="_blank"><img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/opensearch.svg" target="_blank"><img src="https://img.shields.io/badge/Opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/pydantic.svg" target="_blank"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a></li>
