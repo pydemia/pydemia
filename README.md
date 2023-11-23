@@ -101,7 +101,7 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/zsh.svg" target="_blank"><img src="https://img.shields.io/badge/zsh-F15A24?style=none&logo=zsh&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=none&logo=gnubash&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/iterm2.svg" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=none&logo=iterm2&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=none&logo=windowsterminal&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=none&logo=windowsterminal&logoColor=white"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
         <li><a href="https://simpleicons.org/icons/rainmeter.svg" target="_blank"><img src="https://img.shields.io/badge/Rainmeter-19519B?style=none&logo=rainmeter&logoColor=white"/></a></li>
-        <li><a href="https://simpleicons.org/icons/google.svg" target="_blank"><img src="https://img.shields.io/badge/google%20assistant-4285F4?style=none&logo=google%20assistant&logoColor=white"/></a></li>
+        <li><a href="https://simpleicons.org/icons/google.svg" target="_blank"><img src="https://img.shields.io/badge/google%20assistant-4285F4?style=none&logo=Google%20Assistant&logoColor=white"/></a></li>
       </ul>
     </td>
   </tr>
