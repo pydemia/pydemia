@@ -54,8 +54,6 @@ Here are some ideas to get you started:
     <th>Programming Languages</th>
     <th>OSS</th>
     <th>Tools</th>
-     <th>Backend</th>
-    <th>Frontend</th>
     <th>Browsers</th>
     <th>Organizers</th>
     <th>etc.</th>
@@ -87,6 +85,7 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/docker.svg" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/kubernetes.svg" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a></li>
          <li><a href="https://simpleicons.org/icons/tensorflow.svg" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a></li>
+         <li><a href="https://simpleicons.org/icons/pytorch.svg" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge"/></a></li>
          <li><a href="https://simpleicons.org/icons/istio.svg" target="_blank"><img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/opensearch.svg" target="_blank"><img src="https://img.shields.io/badge/Opensearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/></a></li>
          <li><a href="https://simpleicons.org/icons/jupyter.svg" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a></li>
@@ -104,19 +103,6 @@ Here are some ideas to get you started:
         <li><a href="https://simpleicons.org/icons/gnubash.svg" target="_blank"><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/iterm2.svg" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a></li>
         <li><a href="https://simpleicons.org/icons/windowsterminal.svg" target="_blank"><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/></a></li>
-      </ul>
-    </td>
-    <td valign="top",align="left">
-      <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge"/></a></li>
-        <li><a href="https://simpleicons.org/icons/springboot.svg" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/></a></li>
-      </ul>
-    </td>
-    <td valign="top",align="left">
-      <ul style="list-style-type:none;padding:0px">
-        <li><a href="https://simpleicons.org/icons/nextjs.svg" target="_blank"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/></a></li>
-        <li><a href="https://simpleicons.org/icons/tailwindcss.svg" target="_blank"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge"/></a></li>
-        <li><a href="https://simpleicons.org/icons/yarn.svg" target="_blank"><img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge"/></a></li>
       </ul>
     </td>
     <td valign="top",align="left">
@@ -140,4 +126,27 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+
+
+<table>
+   <tr>
+     <th>Backend</th>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
+        <li><a href="https://simpleicons.org/icons/fastapi.svg" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge"/></a></li>
+        <li><a href="https://simpleicons.org/icons/springboot.svg" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/></a></li>
+      </ul>
+    </td>
+    <td valign="top",align="left">
+      <ul style="list-style-type:none;padding:0px">
+        <li><a href="https://simpleicons.org/icons/nextjs.svg" target="_blank"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/></a></li>
+        <li><a href="https://simpleicons.org/icons/tailwindcss.svg" target="_blank"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge"/></a></li>
+        <li><a href="https://simpleicons.org/icons/yarn.svg" target="_blank"><img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge"/></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 *made from https://simpleicons.org & https://badges.pages.dev
