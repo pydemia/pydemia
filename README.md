@@ -142,6 +142,7 @@ Here are some ideas to get you started:
     </td>
     <td valign="top",align="left">
       <ul style="list-style-type:none;padding:0px">
+        <li><a href="https://simpleicons.org/icons/react.svg" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/></a></li>
         <li><a href="https://simpleicons.org/icons/nextjs.svg" target="_blank"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/></a></li>
         <li><a href="https://simpleicons.org/icons/tailwindcss.svg" target="_blank"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge"/></a></li>
         <li><a href="https://simpleicons.org/icons/yarn.svg" target="_blank"><img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge"/></a></li>
