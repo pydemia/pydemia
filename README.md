@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pydemia-logo-v2/pydemia-logo-typo-white.svg">
+    <img src="assets/pydemia-logo-v2/pydemia-logo-typo-navy.svg" alt="pydemia" width="200">
+  </picture>
+</p>
+
 ### Hi there 👋
 
 🌈 Syntax Color Theme
